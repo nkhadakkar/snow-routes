@@ -1,180 +1,171 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<kml xmlns='http://www.opengis.net/kml/2.2'>
-	<Document>
-		<name>SNOW</name>
-		<description><![CDATA[]]></description>
-			<Placemark>
-				<name>walkways</name>
-				<styleUrl>#line-4186F0-1-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>-105.2340285,40.0056428,0.0 -105.2336624,40.0056449,0.0 -105.2336343,40.0055432,0.0 -105.2336745,40.0055031,0.0 -105.2338971,40.0054918,0.0 -105.2339159,40.0055966,0.0 -105.2340178,40.0055935,0.0</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Point 2</name>
-				<styleUrl>#icon-960-DB4436-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>-105.2340259,40.0056449,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>snow loaded corner</name>
-				<description><![CDATA[Dont forget to clear this properly]]></description>
-				<styleUrl>#icon-503-DB4436</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>-105.2336745,40.0055031,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Snow plow line</name>
-				<styleUrl>#line-F4B400-9-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>-105.2340487,40.0055617,0.0 -105.2340433,40.0048415,0.0</coordinates>
-				</LineString>
-			</Placemark>
-		<Style id='icon-503-DB4436-normal'>
-			<IconStyle>
-				<color>ff3644DB</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
-				</hotSpot>
-			</IconStyle>
-			<LabelStyle>
-				<scale>0.0</scale>
-			</LabelStyle>
-		</Style>
-		<Style id='icon-503-DB4436-highlight'>
-			<IconStyle>
-				<color>ff3644DB</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
-				</hotSpot>
-			</IconStyle>
-			<LabelStyle>
-				<scale>1.1</scale>
-			</LabelStyle>
-		</Style>
-		<StyleMap id='icon-503-DB4436'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='icon-960-DB4436-nodesc-normal'>
-			<IconStyle>
-				<color>ff3644DB</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-				<scale>0.0</scale>
-			</LabelStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='icon-960-DB4436-nodesc-highlight'>
-			<IconStyle>
-				<color>ff3644DB</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-				<scale>1.1</scale>
-			</LabelStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='icon-960-DB4436-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-960-DB4436-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-960-DB4436-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='line-4186F0-1-nodesc-normal'>
-			<LineStyle>
-				<color>ffF08641</color>
-				<width>1</width>
-			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='line-4186F0-1-nodesc-highlight'>
-			<LineStyle>
-				<color>ffF08641</color>
-				<width>2.0</width>
-			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='line-4186F0-1-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#line-4186F0-1-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#line-4186F0-1-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='line-F4B400-9-nodesc-normal'>
-			<LineStyle>
-				<color>ff00B4F4</color>
-				<width>9</width>
-			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='line-F4B400-9-nodesc-highlight'>
-			<LineStyle>
-				<color>ff00B4F4</color>
-				<width>14.0</width>
-			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='line-F4B400-9-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#line-F4B400-9-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#line-F4B400-9-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-	</Document>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+<name>SNOW</name>
+  <description><![CDATA[]]></description>
+   <Placemark>
+    <name>walkways</name>
+    <styleUrl>#line-4186F0-1-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <LineString>
+     <tessellate>1</tessellate>
+     <coordinates>-105.2340285,40.0056428,0.0 -105.2336624,40.0056449,0.0 -105.2336343,40.0055432,0.0 -105.2336745,40.0055031,0.0 -105.2338971,40.0054918,0.0 -105.2339159,40.0055966,0.0 -105.2340178,40.0055935,0.0</coordinates>
+    </LineString>
+   </Placemark>
+   <Placemark>
+    <name>Point 2</name>
+    <styleUrl>#icon-960-DB4436-nodesc</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+     <coordinates>-105.2340259,40.0056449,0.0</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>snow loaded corner</name>
+    <description><![CDATA[Dont forget to clear this properly]]></description>
+    <styleUrl>#icon-503-DB4436</styleUrl>
+    <ExtendedData>
+    </ExtendedData>
+    <Point>
+     <coordinates>-105.2336745,40.0055031,0.0</coordinates>
+    </Point>
+   </Placemark>
+  <Style id='icon-503-DB4436-normal'>
+   <IconStyle>
+    <color>ff3644DB</color>
+    <scale>1.1</scale>
+    <Icon>
+     <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+    </Icon>
+    <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+    </hotSpot>
+   </IconStyle>
+   <LabelStyle>
+    <scale>0.0</scale>
+   </LabelStyle>
+  </Style>
+  <Style id='icon-503-DB4436-highlight'>
+   <IconStyle>
+    <color>ff3644DB</color>
+    <scale>1.1</scale>
+    <Icon>
+     <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+    </Icon>
+    <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+    </hotSpot>
+   </IconStyle>
+   <LabelStyle>
+    <scale>1.1</scale>
+   </LabelStyle>
+  </Style>
+  <StyleMap id='icon-503-DB4436'>
+   <Pair>
+    <key>normal</key>
+    <styleUrl>#icon-503-DB4436-normal</styleUrl>
+   </Pair>
+   <Pair>
+    <key>highlight</key>
+    <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+   </Pair>
+  </StyleMap>
+  <Style id='icon-960-DB4436-nodesc-normal'>
+   <IconStyle>
+    <color>ff3644DB</color>
+    <scale>1.1</scale>
+    <Icon>
+     <href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+    </Icon>
+   </IconStyle>
+   <LabelStyle>
+    <scale>0.0</scale>
+   </LabelStyle>
+   <BalloonStyle>
+    <text><![CDATA[<h3>$[name]</h3>]]></text>
+   </BalloonStyle>
+  </Style>
+  <Style id='icon-960-DB4436-nodesc-highlight'>
+   <IconStyle>
+    <color>ff3644DB</color>
+    <scale>1.1</scale>
+    <Icon>
+     <href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+    </Icon>
+   </IconStyle>
+   <LabelStyle>
+    <scale>1.1</scale>
+   </LabelStyle>
+   <BalloonStyle>
+    <text><![CDATA[<h3>$[name]</h3>]]></text>
+   </BalloonStyle>
+  </Style>
+  <StyleMap id='icon-960-DB4436-nodesc'>
+   <Pair>
+    <key>normal</key>
+    <styleUrl>#icon-960-DB4436-nodesc-normal</styleUrl>
+   </Pair>
+   <Pair>
+    <key>highlight</key>
+    <styleUrl>#icon-960-DB4436-nodesc-highlight</styleUrl>
+   </Pair>
+  </StyleMap>
+  <Style id='line-4186F0-1-nodesc-normal'>
+   <LineStyle>
+    <color>ffF08641</color>
+    <width>1</width>
+   </LineStyle>
+   <BalloonStyle>
+    <text><![CDATA[<h3>$[name]</h3>]]></text>
+   </BalloonStyle>
+  </Style>
+  <Style id='line-4186F0-1-nodesc-highlight'>
+   <LineStyle>
+    <color>ffF08641</color>
+    <width>2.0</width>
+   </LineStyle>
+   <BalloonStyle>
+    <text><![CDATA[<h3>$[name]</h3>]]></text>
+   </BalloonStyle>
+  </Style>
+  <StyleMap id='line-4186F0-1-nodesc'>
+   <Pair>
+    <key>normal</key>
+    <styleUrl>#line-4186F0-1-nodesc-normal</styleUrl>
+   </Pair>
+   <Pair>
+    <key>highlight</key>
+    <styleUrl>#line-4186F0-1-nodesc-highlight</styleUrl>
+   </Pair>
+  </StyleMap>
+  <Style id='line-F4B400-9-nodesc-normal'>
+   <LineStyle>
+    <color>ff00B4F4</color>
+    <width>9</width>
+   </LineStyle>
+   <BalloonStyle>
+    <text><![CDATA[<h3>$[name]</h3>]]></text>
+   </BalloonStyle>
+  </Style>
+  <Style id='line-F4B400-9-nodesc-highlight'>
+   <LineStyle>
+    <color>ff00B4F4</color>
+    <width>14.0</width>
+   </LineStyle>
+   <BalloonStyle>
+    <text><![CDATA[<h3>$[name]</h3>]]></text>
+   </BalloonStyle>
+  </Style>
+  <StyleMap id='line-F4B400-9-nodesc'>
+   <Pair>
+    <key>normal</key>
+    <styleUrl>#line-F4B400-9-nodesc-normal</styleUrl>
+   </Pair>
+   <Pair>
+    <key>highlight</key>
+    <styleUrl>#line-F4B400-9-nodesc-highlight</styleUrl>
+   </Pair>
+  </StyleMap>
+  </Document>
 </kml>

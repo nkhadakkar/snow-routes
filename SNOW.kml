@@ -3,8 +3,6 @@
 	<Document>
 		<name>SNOW</name>
 		<description><![CDATA[]]></description>
-		<Folder>
-			<name>snow route</name>
 			<Placemark>
 				<name>walkways</name>
 				<styleUrl>#line-4186F0-1-nodesc</styleUrl>
@@ -34,9 +32,6 @@
 					<coordinates>-105.2336745,40.0055031,0.0</coordinates>
 				</Point>
 			</Placemark>
-		</Folder>
-		<Folder>
-			<name>Snowplow</name>
 			<Placemark>
 				<name>Snow plow line</name>
 				<styleUrl>#line-F4B400-9-nodesc</styleUrl>
@@ -47,10 +42,6 @@
 					<coordinates>-105.2340487,40.0055617,0.0 -105.2340433,40.0048415,0.0</coordinates>
 				</LineString>
 			</Placemark>
-		</Folder>
-		<Folder>
-			<name>Location</name>
-		</Folder>
 		<Style id='icon-503-DB4436-normal'>
 			<IconStyle>
 				<color>ff3644DB</color>

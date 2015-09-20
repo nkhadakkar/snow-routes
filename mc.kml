@@ -3,8 +3,6 @@
 	<Document>
 		<name>Untitled map</name>
 		<description><![CDATA[]]></description>
-		<Folder>
-			<name>Untitled layer</name>
 			<Placemark>
 				<name>970 McIntire St</name>
 				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
@@ -24,7 +22,6 @@
 					<coordinates>-105.23486140000001,40.007763,0.0 -105.2332735,40.0065139,0.0</coordinates>
 				</LineString>
 			</Placemark>
-		</Folder>
 		<Style id='icon-503-DB4436-nodesc-normal'>
 			<IconStyle>
 				<color>ff3644DB</color>

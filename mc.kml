@@ -5,7 +5,7 @@
         <description><![CDATA[]]></description>
         <Placemark>
             <name>970 McIntire St</name>
-            <Style>
+            <Style id="b">
                 <IconStyle>
                     <color>ff3644DB</color>
                     <scale>1.1</scale>
@@ -19,7 +19,7 @@
                     <scale>0.0</scale>
                 </LabelStyle>
                 <BalloonStyle>
-                    <text><![CDATA[<h3>$[name]</h3>]]></text>
+                    <text><![CDATA[<h3>GGGGGGGGGG</h3>]]></text>
                 </BalloonStyle>
             </Style>
             <ExtendedData>
@@ -30,13 +30,13 @@
         </Placemark>
         <Placemark>
             <name>Line 2</name>
-            <Style>
+            <Style id="ggg">
                 <LineStyle>
                     <color>ff000000</color>
                     <width>1</width>
                 </LineStyle>
                 <BalloonStyle>
-                    <text><![CDATA[<h3>$[name]</h3>]]></text>
+                    <text><![CDATA[<h3>GGGGGG</h3>]]></text>
                 </BalloonStyle>
             </Style>
             <ExtendedData>

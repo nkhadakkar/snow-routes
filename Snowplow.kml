@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Snowplow</name>
+		<NetworkLink>
+			<name>SNOW</name>
+			<Link>
+				<href>http://www.google.com/maps/d/kml?forcekml=1&amp;mid=zFs10CXBSpmo.kBVbr7HJIX5Q&amp;lid=zFs10CXBSpmo.kPuB9FUjn0ko</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>

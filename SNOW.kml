@@ -29,16 +29,7 @@
 				<scale>1.1</scale>
 			</LabelStyle>
 		</Style>
-		<StyleMap id='icon-503-DB4436'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
+		
 		<Style id='icon-960-DB4436-nodesc-normal'>
 			<IconStyle>
 				<scale>1.1</scale>
@@ -68,16 +59,7 @@
 				<text><![CDATA[<h3>$[name]</h3>]]></text>
 			</BalloonStyle>
 		</Style>
-		<StyleMap id='icon-960-DB4436-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-960-DB4436-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-960-DB4436-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
+	
 		<Style id='line-4186F0-1-nodesc-normal'>
 			<LineStyle>
 				<color>ffF08641</color>

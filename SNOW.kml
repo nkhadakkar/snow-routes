@@ -41,7 +41,7 @@
 				<scale>0.0</scale>
 			</LabelStyle>
 			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
+				<text><![CDATA[xxxx]]></text>
 			</BalloonStyle>
 		</Style>
 		<Style id='icon-960-DB4436-nodesc-highlight'>
@@ -56,7 +56,7 @@
 				<scale>1.1</scale>
 			</LabelStyle>
 			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
+				<text><![CDATA[yyy]]></text>
 			</BalloonStyle>
 		</Style>
 	
@@ -66,7 +66,7 @@
 				<width>1</width>
 			</LineStyle>
 			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
+				<text><![CDATA[gggg]]></text>
 			</BalloonStyle>
 		</Style>
 		<Style id='line-4186F0-1-nodesc-highlight'>
@@ -75,7 +75,7 @@
 				<width>2.0</width>
 			</LineStyle>
 			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
+				<text><![CDATA[hhhhh]]></text>
 			</BalloonStyle>
 		</Style>
 		

@@ -5,41 +5,30 @@
 		<description><![CDATA[]]></description>
 				<Style id='icon-503-DB4436-normal'>
 			<IconStyle>
-				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
 				</Icon>
 				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
 				</hotSpot>
 			</IconStyle>
-			<LabelStyle>
-				<scale>0.0</scale>
-			</LabelStyle>
+		
 		</Style>
 		<Style id='icon-503-DB4436-highlight'>
 			<IconStyle>
-				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
 				</Icon>
 				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
 				</hotSpot>
 			</IconStyle>
-			<LabelStyle>
-				<scale>1.1</scale>
-			</LabelStyle>
 		</Style>
 		
 		<Style id='icon-960-DB4436-nodesc-normal'>
 			<IconStyle>
-				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
 				</Icon>
 			</IconStyle>
-			<LabelStyle>
-				<scale>0.0</scale>
-			</LabelStyle>
 			<BalloonStyle>
 				<text><![CDATA[xxxx]]></text>
 			</BalloonStyle>
@@ -47,14 +36,10 @@
 		<Style id='icon-960-DB4436-nodesc-highlight'>
 			<IconStyle>
 				<color>ff3644DB</color>
-				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
 				</Icon>
 			</IconStyle>
-			<LabelStyle>
-				<scale>1.1</scale>
-			</LabelStyle>
 			<BalloonStyle>
 				<text><![CDATA[yyy]]></text>
 			</BalloonStyle>

@@ -13,7 +13,7 @@
 			</IconStyle>
 		
 		</Style>
-		<Style id='icon-503-DB4436-highlight'>
+		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -23,7 +23,7 @@
 			</IconStyle>
 		</Style>
 		
-		<Style id='icon-960-DB4436-nodesc-normal'>
+		<Style id="icon-960-DB4436-nodesc-normal">
 			<IconStyle>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
@@ -45,7 +45,7 @@
 			</BalloonStyle>
 		</Style>
 	
-		<Style id='line-4186F0-1-nodesc-normal'>
+		<Style id="line-4186F0-1-nodesc-normal">
 			<LineStyle>
 				<color>ffF08641</color>
 				<width>1</width>
@@ -54,10 +54,10 @@
 				<text><![CDATA[gggg]]></text>
 			</BalloonStyle>
 		</Style>
-		<Style id='line-4186F0-1-nodesc-highlight'>
+		<Style id="line-4186F0-1-nodesc-highlight">
 			<LineStyle>
 				<color>ffF08641</color>
-				<width>2.0</width>
+				<width>2</width>
 			</LineStyle>
 			<BalloonStyle>
 				<text><![CDATA[hhhhh]]></text>

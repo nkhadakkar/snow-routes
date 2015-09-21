@@ -2,7 +2,7 @@
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
 		<name>SNOW</name>
-		<description><![CDATA[]]></description>
+		<description>gggggkadfkajdkfjadkfj</description>
 				<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<Icon>
@@ -28,7 +28,7 @@
 				</Icon>
 			</IconStyle>
 			<BalloonStyle>
-				<text><![CDATA[xxxx]]></text>
+				<text>nnnnnn</text>
 			</BalloonStyle>
 		</Style>
 		<Style id="icon-960-DB4436-nodesc-highlight">
@@ -39,7 +39,7 @@
 				</Icon>
 			</IconStyle>
 			<BalloonStyle>
-				<text><![CDATA[yyy]]></text>
+				<text>jjjj</text>
 			</BalloonStyle>
 		</Style>
 	
@@ -49,7 +49,7 @@
 				<width>1</width>
 			</LineStyle>
 			<BalloonStyle>
-				<text><![CDATA[gggg]]></text>
+				<text>gggg></text>
 			</BalloonStyle>
 		</Style>
 		<Style id="line-4186F0-1-nodesc-highlight">
@@ -58,7 +58,7 @@
 				<width>2</width>
 			</LineStyle>
 			<BalloonStyle>
-				<text><![CDATA[hhhhh]]></text>
+				<text>hhhhh</text>
 			</BalloonStyle>
 		</Style>
 		
@@ -78,7 +78,7 @@
 			</Placemark>
 			<Placemark>
 				<name>snow loaded corner</name>
-				<description><![CDATA[Dont forget to clear this properly]]></description>
+				<description>Dont forget to clear this properly</description>
 				<styleUrl>#icon-503-DB4436</styleUrl>
 				<Point>
 					<coordinates>-105.2336745,40.0055031,0.0</coordinates>

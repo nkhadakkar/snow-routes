@@ -6,7 +6,7 @@
 		<Folder>
 			<name>Shovel</name>
 			<Placemark>
-				<name>Line 1</name>
+				<name></name>
 				<styleUrl>#line-4186F0-8-nodesc</styleUrl>
 				<ExtendedData>
 				</ExtendedData>
@@ -76,6 +76,20 @@
 				<Point>
 					<coordinates>-105.2612704,40.0368644,0.0</coordinates>
 				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Line 8</name>
+				<description><![CDATA[<img src="https://raw.githubusercontent.com/nkhadakkar/snow-routes/master/WillowSprings/2015-09-19%20(1).jpg" height="200" width="auto" /><br><br>Don't forget to shovel near the dumpsters and move snow aside<br><br><img src="https://raw.githubusercontent.com/nkhadakkar/snow-routes/master/WillowSprings/2015-09-19%20(2).jpg" height="200" width="auto" />]]></description>
+				<styleUrl>#line-4186F0-8</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://raw.githubusercontent.com/nkhadakkar/snow-routes/master/WillowSprings/2015-09-19%20(1).jpg https://raw.githubusercontent.com/nkhadakkar/snow-routes/master/WillowSprings/2015-09-19%20(2).jpg</value>
+					</Data>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-105.2620214,40.0379117,0.0 -105.262,40.0376981,0.0 -105.2623352,40.0376406,0.0</coordinates>
+				</LineString>
 			</Placemark>
 		</Folder>
 		<Folder>
@@ -362,6 +376,28 @@
 			<Pair>
 				<key>highlight</key>
 				<styleUrl>#line-4186F0-6-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-4186F0-8-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>8</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-4186F0-8-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>12.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-4186F0-8'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-8-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-8-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
 		<Style id='line-4186F0-8-nodesc-normal'>

@@ -6,24 +6,10 @@
         <Placemark>
             <name>970 McIntire St</name>
             <Style id="b">
-                <IconStyle>
-                    <color>ff3644DB</color>
-                    <scale>1.1</scale>
-                    <Icon>
-                        <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-                    </Icon>
-                    <hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
-                    </hotSpot>
-                </IconStyle>
-                <LabelStyle>
-                    <scale>0.0</scale>
-                </LabelStyle>
                 <BalloonStyle>
                     <text><![CDATA[<h3>GGGGGGGGGG</h3>]]></text>
                 </BalloonStyle>
             </Style>
-            <ExtendedData>
-            </ExtendedData>
             <Point>
                 <coordinates>-105.23377800000003,40.005573,0.0</coordinates>
             </Point>
@@ -39,8 +25,6 @@
                     <text><![CDATA[<h3>GGGGGG</h3>]]></text>
                 </BalloonStyle>
             </Style>
-            <ExtendedData>
-            </ExtendedData>
             <LineString>
                 <coordinates>-105.23486140000001,40.007763,0.0 -105.2332735,40.0065139,0.0</coordinates>
             </LineString>

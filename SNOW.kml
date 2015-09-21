@@ -3,13 +3,12 @@
 	<Document>
 		<name>SNOW</name>
 		<description><![CDATA[]]></description>
-				<Style id='icon-503-DB4436-normal'>
+				<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
 				</Icon>
-				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
-				</hotSpot>
+				
 			</IconStyle>
 		
 		</Style>
@@ -18,8 +17,7 @@
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
 				</Icon>
-				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
-				</hotSpot>
+				
 			</IconStyle>
 		</Style>
 		
@@ -33,7 +31,7 @@
 				<text><![CDATA[xxxx]]></text>
 			</BalloonStyle>
 		</Style>
-		<Style id='icon-960-DB4436-nodesc-highlight'>
+		<Style id="icon-960-DB4436-nodesc-highlight">
 			<IconStyle>
 				<color>ff3644DB</color>
 				<Icon>

@@ -3,41 +3,8 @@
 	<Document>
 		<name>SNOW</name>
 		<description><![CDATA[]]></description>
-		<Folder>
-			<name>snow route</name>
-			<Placemark>
-				<name>walkways</name>
-				<styleUrl>#line-4186F0-1-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>-105.2340285,40.0056428,0.0 -105.2336624,40.0056449,0.0 -105.2336343,40.0055432,0.0 -105.2336745,40.0055031,0.0 -105.2338971,40.0054918,0.0 -105.2339159,40.0055966,0.0 -105.2340178,40.0055935,0.0</coordinates>
-				</LineString>
-			</Placemark>
-			<Placemark>
-				<name>Point 2</name>
-				<styleUrl>#icon-960-DB4436-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>-105.2340259,40.0056449,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>snow loaded corner</name>
-				<description><![CDATA[Dont forget to clear this properly]]></description>
-				<styleUrl>#icon-503-DB4436</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>-105.2336745,40.0055031,0.0</coordinates>
-				</Point>
-			</Placemark>
-		</Folder>
-		<Style id='icon-503-DB4436-normal'>
+				<Style id='icon-503-DB4436-normal'>
 			<IconStyle>
-				<color>ff3644DB</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -51,7 +18,6 @@
 		</Style>
 		<Style id='icon-503-DB4436-highlight'>
 			<IconStyle>
-				<color>ff3644DB</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -75,7 +41,6 @@
 		</StyleMap>
 		<Style id='icon-960-DB4436-nodesc-normal'>
 			<IconStyle>
-				<color>ff3644DB</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
@@ -131,15 +96,29 @@
 				<text><![CDATA[<h3>$[name]</h3>]]></text>
 			</BalloonStyle>
 		</Style>
-		<StyleMap id='line-4186F0-1-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#line-4186F0-1-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#line-4186F0-1-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
+		
+			<Placemark>
+				<name>walkways</name>
+				<styleUrl>#line-4186F0-1-nodesc</styleUrl>
+				<LineString>
+					<coordinates>-105.2340285,40.0056428,0.0 -105.2336624,40.0056449,0.0 -105.2336343,40.0055432,0.0 -105.2336745,40.0055031,0.0 -105.2338971,40.0054918,0.0 -105.2339159,40.0055966,0.0 -105.2340178,40.0055935,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Point 2</name>
+				<styleUrl>#icon-960-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-105.2340259,40.0056449,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>snow loaded corner</name>
+				<description><![CDATA[Dont forget to clear this properly]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-105.2336745,40.0055031,0.0</coordinates>
+				</Point>
+			</Placemark>
+
 	</Document>
 </kml>

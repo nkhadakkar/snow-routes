@@ -5,6 +5,16 @@
 		<description><![CDATA[]]></description>
 		<Folder>
 			<name>Untitled layer</name>
+			
+				<Placemark>
+				<name>Special</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-105.2339816,40.0056099,0.0</coordinates>
+				</Point>
+			</Placemark>
 			<Placemark>
 				<name>970 McIntire St</name>
 				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
@@ -14,15 +24,7 @@
 					<coordinates>-105.23377800000003,40.005573,0.0</coordinates>
 				</Point>
 			</Placemark>
-			<Placemark>
-				<name>Special</name>
-				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>-105.2339816,40.0056099,0.0</coordinates>
-				</Point>
-			</Placemark>
+		
 			<Placemark>
 				<name>Line 3</name>
 				<styleUrl>#line-795046-12-nodesc</styleUrl>

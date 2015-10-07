@@ -225,25 +225,21 @@
 			</Pair>
 		</StyleMap>
 		<Style id='icon-960-62AF44-normal'>
-			<IconStyle>
 				<color>ff44AF62</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
 				</Icon>
-			</IconStyle>
 			<LabelStyle>
 				<scale>0.0</scale>
 			</LabelStyle>
 		</Style>
 		<Style id='icon-960-62AF44-highlight'>
-			<IconStyle>
 				<color>ff44AF62</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
 				</Icon>
-			</IconStyle>
 			<LabelStyle>
 				<scale>1.1</scale>
 			</LabelStyle>

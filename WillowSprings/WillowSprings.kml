@@ -191,9 +191,6 @@
 			<LabelStyle>
 				<scale>0.0</scale>
 			</LabelStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<Style id='icon-503-DB4436-nodesc-highlight'>
 				<color>ff3644DB</color>
@@ -206,9 +203,6 @@
 			<LabelStyle>
 				<scale>1.1</scale>
 			</LabelStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<StyleMap id='icon-503-DB4436-nodesc'>
 			<Pair>
@@ -255,18 +249,12 @@
 				<color>ffF08641</color>
 				<width>10</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<Style id='line-4186F0-10-nodesc-highlight'>
 			<LineStyle>
 				<color>ffF08641</color>
 				<width>15.0</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<StyleMap id='line-4186F0-10-nodesc'>
 			<Pair>
@@ -283,18 +271,12 @@
 				<color>ffF08641</color>
 				<width>13</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<Style id='line-4186F0-13-nodesc-highlight'>
 			<LineStyle>
 				<color>ffF08641</color>
 				<width>20.0</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<StyleMap id='line-4186F0-13-nodesc'>
 			<Pair>
@@ -311,18 +293,12 @@
 				<color>ffF08641</color>
 				<width>5</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<Style id='line-4186F0-5-nodesc-highlight'>
 			<LineStyle>
 				<color>ffF08641</color>
 				<width>8.0</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<StyleMap id='line-4186F0-5-nodesc'>
 			<Pair>
@@ -339,18 +315,12 @@
 				<color>ffF08641</color>
 				<width>6</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<Style id='line-4186F0-6-nodesc-highlight'>
 			<LineStyle>
 				<color>ffF08641</color>
 				<width>9.0</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<StyleMap id='line-4186F0-6-nodesc'>
 			<Pair>
@@ -389,18 +359,12 @@
 				<color>ffF08641</color>
 				<width>8</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<Style id='line-4186F0-8-nodesc-highlight'>
 			<LineStyle>
 				<color>ffF08641</color>
 				<width>12.0</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<StyleMap id='line-4186F0-8-nodesc'>
 			<Pair>
@@ -417,18 +381,12 @@
 				<color>ff4A1BA6</color>
 				<width>12</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<Style id='line-A61B4A-12-nodesc-highlight'>
 			<LineStyle>
 				<color>ff4A1BA6</color>
 				<width>18.0</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<StyleMap id='line-A61B4A-12-nodesc'>
 			<Pair>
@@ -445,18 +403,12 @@
 				<color>ff4A1BA6</color>
 				<width>8</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<Style id='line-A61B4A-8-nodesc-highlight'>
 			<LineStyle>
 				<color>ff4A1BA6</color>
 				<width>12.0</width>
 			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<StyleMap id='line-A61B4A-8-nodesc'>
 			<Pair>
@@ -500,9 +452,6 @@
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<Style id='poly-F8971B-0-191-nodesc-highlight'>
 			<LineStyle>
@@ -514,9 +463,6 @@
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<StyleMap id='poly-F8971B-0-191-nodesc'>
 			<Pair>
@@ -538,9 +484,6 @@
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<Style id='poly-F8971B-0-193-nodesc-highlight'>
 			<LineStyle>
@@ -552,9 +495,6 @@
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<StyleMap id='poly-F8971B-0-193-nodesc'>
 			<Pair>
@@ -576,9 +516,6 @@
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<Style id='poly-F8971B-0-198-nodesc-highlight'>
 			<LineStyle>
@@ -590,9 +527,6 @@
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<StyleMap id='poly-F8971B-0-198-nodesc'>
 			<Pair>
@@ -614,9 +548,6 @@
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<Style id='poly-F8971B-1-214-nodesc-highlight'>
 			<LineStyle>
@@ -628,9 +559,6 @@
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
 		</Style>
 		<StyleMap id='poly-F8971B-1-214-nodesc'>
 			<Pair>

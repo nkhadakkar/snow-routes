@@ -181,7 +181,6 @@
 				</LineString>
 			</Placemark>
 		<Style id='icon-503-DB4436-nodesc-normal'>
-			<IconStyle>
 				<color>ff3644DB</color>
 				<scale>1.1</scale>
 				<Icon>
@@ -189,7 +188,6 @@
 				</Icon>
 				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
 				</hotSpot>
-			</IconStyle>
 			<LabelStyle>
 				<scale>0.0</scale>
 			</LabelStyle>
@@ -198,7 +196,6 @@
 			</BalloonStyle>
 		</Style>
 		<Style id='icon-503-DB4436-nodesc-highlight'>
-			<IconStyle>
 				<color>ff3644DB</color>
 				<scale>1.1</scale>
 				<Icon>
@@ -206,7 +203,6 @@
 				</Icon>
 				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
 				</hotSpot>
-			</IconStyle>
 			<LabelStyle>
 				<scale>1.1</scale>
 			</LabelStyle>

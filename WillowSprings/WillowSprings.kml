@@ -3,8 +3,7 @@
 	<Document>
 		<name>Willow Springs</name>
 		<description><![CDATA[]]></description>
-		<Folder>
-			<name>Shovel</name>
+		
 			<Placemark>
 				<name></name>
 				<styleUrl>#line-4186F0-8-nodesc</styleUrl>
@@ -91,9 +90,6 @@
 					<coordinates>-105.2620214,40.0379117,0.0 -105.262,40.0376981,0.0 -105.2623352,40.0376406,0.0</coordinates>
 				</LineString>
 			</Placemark>
-		</Folder>
-		<Folder>
-			<name>Plow</name>
 			<Placemark>
 				<name>Line 1</name>
 				<description><![CDATA[<img src="http://media.cleveland.com/north-ridgeville/photo/snow-generic-2jpg-9905cfffe597957b.jpg" height="200" width="auto" /><br><br>Make sure to blah l\bla ]]></description>
@@ -164,9 +160,6 @@
 					</outerBoundaryIs>
 				</Polygon>
 			</Placemark>
-		</Folder>
-		<Folder>
-			<name>Do not do</name>
 			<Placemark>
 				<name>Line 1</name>
 				<styleUrl>#line-A61B4A-8-nodesc</styleUrl>
@@ -187,7 +180,6 @@
 					<coordinates>-105.2605891,40.0378296,0.0 -105.2605838,40.0377187,0.0 -105.26064280000001,40.0376489,0.0 -105.2607661,40.0376489,0.0</coordinates>
 				</LineString>
 			</Placemark>
-		</Folder>
 		<Style id='icon-503-DB4436-nodesc-normal'>
 			<IconStyle>
 				<color>ff3644DB</color>

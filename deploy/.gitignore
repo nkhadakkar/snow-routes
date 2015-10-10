@@ -1,0 +1,8 @@
+platforms/**
+plugins/**
+hooks/**
+cordova/**
+.idea
+.iml
+.ipr
+.DS_Store

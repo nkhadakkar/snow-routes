@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>2845 Wilderness Place</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>2845 Wilderness Pl</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-105.24955990000001,40.0261703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Polygon 3</name>
+				<styleUrl>#poly-F8971B-1-255-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-105.2486935,40.0261315,0.0 -105.2488357,40.0261747,0.0 -105.2488115,40.0262219,0.0 -105.2497476,40.02653,0.0 -105.24976100000002,40.026491,0.0 -105.2498093,40.02649710000001,0.0 -105.249863,40.026396500000004,0.0 -105.24982810000002,40.026375900000005,0.0 -105.2498496,40.0263513,0.0 -105.2499005,40.0263739,0.0 -105.2500856,40.026008299999994,0.0 -105.2499247,40.0259672,0.0 -105.2498764,40.0260021,0.0 -105.24976100000002,40.02595899999999,0.0 -105.2490395,40.025952800000006,0.0 -105.2490422,40.0260781,0.0 -105.2490476,40.0260227,0.0 -105.2491656,40.02603090000001,0.0 -105.2491683,40.02605350000001,0.0 -105.2493533,40.026057599999994,0.0 -105.2493587,40.0259939,0.0 -105.2497691,40.02600420000001,0.0 -105.2497905,40.0260288,0.0 -105.2497771,40.0260555,0.0 -105.2499112,40.0260987,0.0 -105.249753,40.02633900000001,0.0 -105.2493882,40.0263102,0.0 -105.2487445,40.026092500000004,0.0 -105.2486935,40.0261315,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Line 4</name>
+				<styleUrl>#line-4186F0-7-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-105.2487566,40.0260822,0.0 -105.248782,40.0260689,0.0 -105.24889740000002,40.0260596,0.0 -105.2489805,40.0260288,0.0 -105.2490181,40.0259888,0.0 -105.2490301,40.0259467,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 5</name>
+				<styleUrl>#line-4186F0-7-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-105.2491575,40.02606990000001,0.0 -105.2492715,40.026074,0.0 -105.2492715,40.0260545,0.0 -105.2492796,40.026074,0.0 -105.2493198,40.0260751,0.0 -105.2493185,40.0260566,0.0 -105.2493238,40.0260761,0.0 -105.2493721,40.0260781,0.0 -105.2493708,40.0260062,0.0 -105.2497342,40.0260196,0.0 -105.2497557,40.026034,0.0 -105.2497463,40.0260627,0.0 -105.2497745,40.026073,0.0 -105.2498884,40.0261089,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 6</name>
+				<styleUrl>#line-4186F0-7-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-105.2493198,40.0260751,0.0 -105.2493332,40.0261079,0.0 -105.2493922,40.0261089,0.0 -105.2493332,40.026113,0.0 -105.2493426,40.0262281,0.0 -105.2493815,40.0262281,0.0 -105.2493386,40.0262332,0.0 -105.2493306,40.0262887,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 7</name>
+				<styleUrl>#line-4186F0-7-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-105.2496269,40.0263256,0.0 -105.2496269,40.0262876,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 8</name>
+				<styleUrl>#line-4186F0-7-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-105.2497691,40.0261962,0.0 -105.2498214,40.0262147,0.0 -105.2498884,40.0261089,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-4186F0-7-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>7</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-7-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>11.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-7-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-7-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-7-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-F8971B-1-255-nodesc-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF1B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-F8971B-1-255-nodesc-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF1B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-F8971B-1-255-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F8971B-1-255-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F8971B-1-255-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

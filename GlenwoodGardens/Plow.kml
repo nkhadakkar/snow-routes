@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Plow</name>
+		<Placemark>
+			<name>Polygon 1</name>
+			<styleUrl>#poly-F8971B-1-158-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.2565122,40.032746800000005,0.0 -105.2565631,40.032744799999996,0.0 -105.2565899,40.03274480000001,0.0 -105.2565846,40.0321328,0.0 -105.256657,40.0319931,0.0 -105.2566651,40.0314181,0.0 -105.2565604,40.0314119,0.0 -105.2565658,40.0315844,0.0 -105.2564692,40.0315906,0.0 -105.2564612,40.0319171,0.0 -105.2565819,40.0319212,0.0 -105.2565658,40.032007500000006,0.0 -105.2565095,40.0320958,0.0 -105.2563539,40.032104,0.0 -105.2563512,40.0321923,0.0 -105.2563083,40.0321923,0.0 -105.25630560000002,40.0323238,0.0 -105.25601060000001,40.0323197,0.0 -105.2560025,40.0322724,0.0 -105.2556351,40.0322601,0.0 -105.2556404,40.0324614,0.0 -105.2560374,40.032463400000005,0.0 -105.2560347,40.0323731,0.0 -105.2560911,40.032369,0.0 -105.2561045,40.0324141,0.0 -105.2565095,40.0324162,0.0 -105.2565122,40.032746800000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-F8971B-1-158-nodesc-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>9E1B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-F8971B-1-158-nodesc-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>9E1B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-F8971B-1-158-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F8971B-1-158-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F8971B-1-158-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

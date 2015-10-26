@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Shovel</name>
+		<Placemark>
+			<name>Line 1</name>
+			<styleUrl>#line-4186F0-11-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.25549020000001,40.0327448,0.0 -105.256488,40.0327489,0.0 -105.2564907,40.0324367,0.0 -105.2560776,40.0324347,0.0 -105.256075,40.0323895,0.0 -105.2560562,40.0323895,0.0 -105.2560562,40.0324819,0.0 -105.2556163,40.0324819,0.0 -105.2556109,40.0322437,0.0 -105.2560186,40.0322519,0.0 -105.2560294,40.0322991,0.0 -105.2562869,40.0323032,0.0 -105.2562842,40.032065,0.0 -105.25649610000002,40.032063,0.0 -105.2565417,40.0320157,0.0 -105.2565578,40.03195,0.0 -105.2565283,40.0320342,0.0 -105.2564773,40.032026,0.0 -105.2564773,40.031989,0.0 -105.256421,40.0319849,0.0 -105.256421,40.0319336,0.0 -105.2563781,40.0319356,0.0 -105.2563888,40.0315701,0.0 -105.2564558,40.031568,0.0 -105.2564612,40.03150840000001,0.0 -105.2565524,40.0315064,0.0 -105.2565524,40.0314509,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Point 2</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.256421,40.0319849,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-4186F0-11-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>11</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-11-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>17.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-11-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-11-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-11-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

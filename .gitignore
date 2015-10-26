@@ -3,6 +3,7 @@ plugins/**
 hooks/**
 cordova/**
 .idea
-.iml
-.ipr
+*.iml
+*.ipr
 .DS_Store
+deploy/.DS_Store

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Shovel</name>
+		<Placemark>
+			<name>Line 1</name>
+			<styleUrl>#line-4186F0-9-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2230825,40.0060609,0.0 -105.2227324,40.0060599,0.0 -105.2226613,40.0062571,0.0 -105.2227405,40.0062551,0.0 -105.2227405,40.0061688,0.0 -105.2227914,40.0061308,0.0 -105.2228223,40.00616360000001,0.0 -105.2228236,40.0061431,0.0 -105.2228437,40.0061338,0.0 -105.22286520000002,40.0061534,0.0 -105.2228437,40.0061801,0.0 -105.2228759,40.0061503,0.0 -105.2230047,40.0061482,0.0 -105.2230033,40.00633,0.0 -105.2227445,40.0063342,0.0 -105.2227405,40.0062705,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 2</name>
+			<styleUrl>#line-4186F0-9-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.22265060000001,40.0066136,0.0 -105.2227284,40.0066125,0.0 -105.222723,40.0065324,0.0 -105.22277,40.0064954,0.0 -105.2228062,40.0065252,0.0 -105.2227807,40.0064985,0.0 -105.2228799,40.0064944,0.0 -105.2228947,40.0065242,0.0 -105.2228893,40.0064944,0.0 -105.2229403,40.0064975,0.0 -105.2229886,40.006517,0.0 -105.2229886,40.0066855,0.0 -105.2227284,40.0066865,0.0 -105.2227271,40.00663,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1063 Love Ct</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.222831,40.00625100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-4186F0-9-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>9</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-9-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>14.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-9-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-9-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-9-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

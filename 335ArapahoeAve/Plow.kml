@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Plow</name>
+		<Placemark>
+			<name>Polygon 2</name>
+			<styleUrl>#poly-F8971B-0-244-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.29271930000002,40.0130048,0.0 -105.2927367,40.0130407,0.0 -105.2927005,40.013087,0.0 -105.2927421,40.0131311,0.0 -105.2928185,40.0131157,0.0 -105.2929701,40.0131496,0.0 -105.2930425,40.0132256,0.0 -105.2930559,40.0133006,0.0 -105.2930197,40.01343620000001,0.0 -105.2930948,40.0134485,0.0 -105.293135,40.013315,0.0 -105.2930935,40.013183500000004,0.0 -105.2931498,40.0131619,0.0 -105.2930398,40.01308180000001,0.0 -105.2930023,40.0131116,0.0 -105.2928574,40.01306850000001,0.0 -105.2928454,40.0130058,0.0 -105.29271930000002,40.0130048,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-F8971B-0-244-nodesc-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>F41B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-F8971B-0-244-nodesc-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>0.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>F41B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-F8971B-0-244-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F8971B-0-244-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F8971B-0-244-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

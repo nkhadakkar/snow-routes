@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>ATV</name>
+		<Placemark>
+			<name>Line 1</name>
+			<styleUrl>#line-DB4436-8-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2292462,39.9861118,0.0 -105.2293253,39.9860697,0.0 -105.2292998,39.9860964,0.0 -105.2295291,39.9861395,0.0 -105.2296177,39.98616830000001,0.0 -105.2297464,39.986233,0.0 -105.2299261,39.9862998,0.0 -105.2299261,39.9862608,0.0 -105.2299409,39.9862711,0.0 -105.2299368,39.9863019,0.0 -105.2301595,39.98638,0.0 -105.2306235,39.9865434,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-DB4436-8-nodesc-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>8</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-DB4436-8-nodesc-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>12.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-DB4436-8-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-8-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-8-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

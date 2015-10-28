@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>ATV</name>
+		<Placemark>
+			<name>Line 5</name>
+			<styleUrl>#line-4186F0-6-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2809793,40.0436819,0.0 -105.2819771,40.0436799,0.0 -105.2819636,40.0455895,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-4186F0-6-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>6</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-6-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>9.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-6-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-6-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-6-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

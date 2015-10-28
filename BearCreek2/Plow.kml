@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Plow</name>
+		<Placemark>
+			<name>1275 Bear Mountain Dr</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.26363100000003,39.97736099999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plow</name>
+			<styleUrl>#poly-F8971B-1-247-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.2626222,39.97778189999999,0.0 -105.2628113,39.977991599999996,0.0 -105.2630728,39.9778703,0.0 -105.2632928,39.9779649,0.0 -105.2635288,39.9776864,0.0 -105.2634886,39.977658600000005,0.0 -105.2636388,39.9775373,0.0 -105.2638359,39.9776196,0.0 -105.2639821,39.9774387,0.0 -105.2639338,39.9774202,0.0 -105.26388420000002,39.977463300000004,0.0 -105.2638453,39.977432500000006,0.0 -105.2640411,39.9772671,0.0 -105.2641739,39.9770985,0.0 -105.2644193,39.97721980000001,0.0 -105.2645575,39.9770543,0.0 -105.2644421,39.9770009,0.0 -105.2643858,39.977068700000004,0.0 -105.2642731,39.9770101,0.0 -105.2642919,39.9769834,0.0 -105.2643549,39.9770091,0.0 -105.2643858,39.9769721,0.0 -105.2643308,39.97694130000001,0.0 -105.264485,39.9767347,0.0 -105.26443,39.9767039,0.0 -105.2646151,39.9764685,0.0 -105.264544,39.9764387,0.0 -105.2643818,39.9766463,0.0 -105.2642637,39.976591899999995,0.0 -105.2643308,39.9765035,0.0 -105.2640089,39.976339,0.0 -105.2639566,39.9762589,0.0 -105.263899,39.97629280000001,0.0 -105.2639996,39.9763945,0.0 -105.2639499,39.976447,0.0 -105.2641417,39.976537400000005,0.0 -105.2642262,39.97663910000001,0.0 -105.2641578,39.9767142,0.0 -105.2642637,39.97677379999999,0.0 -105.2643067,39.9767162,0.0 -105.2643348,39.97677170000001,0.0 -105.2643026,39.9768344,0.0 -105.2639352,39.97727630000001,0.0 -105.26378770000001,39.977376,0.0 -105.2636844,39.9774274,0.0 -105.263494,39.97734210000001,0.0 -105.2633598,39.9775106,0.0 -105.2634859,39.9775867,0.0 -105.263325,39.9777696,0.0 -105.2630769,39.9778045,0.0 -105.2631211,39.97773980000001,0.0 -105.2630447,39.97770690000001,0.0 -105.262987,39.9777645,0.0 -105.2629253,39.977731600000006,0.0 -105.2628945,39.977783,0.0 -105.2629562,39.977825100000004,0.0 -105.2629119,39.977859,0.0 -105.2628261,39.9778446,0.0 -105.2627671,39.977811700000004,0.0 -105.2626933,39.9777275,0.0 -105.2626222,39.97778189999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-F8971B-1-247-nodesc-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>F71B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-F8971B-1-247-nodesc-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>F71B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-F8971B-1-247-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F8971B-1-247-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F8971B-1-247-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

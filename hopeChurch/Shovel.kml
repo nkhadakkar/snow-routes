@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Shovel</name>
+		<Placemark>
+			<name>Line 1</name>
+			<styleUrl>#line-4186F0-15-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2351725,40.000646,0.0 -105.2351671,40.0003995,0.0 -105.2352557,40.000403600000006,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 2</name>
+			<styleUrl>#line-4186F0-12-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2348962,40.0002618,0.0 -105.2351564,40.0002618,0.0 -105.2352503,40.000233,0.0 -105.2353656,40.0002413,0.0 -105.2354354,40.0002618,0.0 -105.2357626,40.0002598,0.0 -105.2356553,40.0002618,0.0 -105.2356499,40.0005228,0.0 -105.2356204,40.0005186,0.0 -105.2356178,40.0005002,0.0 -105.2356365,40.0005002,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 3</name>
+			<styleUrl>#line-4186F0-12-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2352074,40.0008104,0.0 -105.2352074,40.0007488,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-4186F0-12-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>12</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-12-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>18.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-12-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-12-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-12-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-4186F0-15-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>15</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-15-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>23.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-15-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-15-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-15-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

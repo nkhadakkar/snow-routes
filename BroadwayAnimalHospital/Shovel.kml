@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Shovel</name>
+		<Placemark>
+			<name>Line 3</name>
+			<styleUrl>#line-4186F0-9-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.23938630000002,39.9736156,0.0 -105.2393326,39.9734224,0.0 -105.2392575,39.9734409,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-4186F0-9-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>9</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-9-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>14.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-9-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-9-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-9-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Shovel</name>
+		<Placemark>
+			<name>Line 1</name>
+			<styleUrl>#line-4186F0-9-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2819717,40.0271082,0.0 -105.2819663,40.026837,0.0 -105.2819207,40.0268114,0.0 -105.281788,40.0268175,0.0 -105.2817933,40.0268997,0.0 -105.2817799,40.0268124,0.0 -105.2813575,40.0268124,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 2</name>
+			<styleUrl>#line-4186F0-16-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2818993,40.0270866,0.0 -105.2815653,40.02708760000001,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-4186F0-16-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>16</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-16-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>24.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-16-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-16-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-16-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-4186F0-9-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>9</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-9-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>14.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-9-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-9-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-9-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

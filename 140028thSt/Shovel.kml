@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Shovel</name>
+		<Placemark>
+			<name>Foot &amp; Ankle Care of Boulder: Shonka Thomas E DPM</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.257968,40.011781,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Line 2</name>
+			<styleUrl>#line-4186F0-11-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2582958,40.012141,0.0 -105.25832,40.0116582,0.0 -105.2582556,40.0116233,0.0 -105.2575797,40.0116294,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 3</name>
+			<styleUrl>#line-4186F0-10-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2582932,40.011949900000005,0.0 -105.257982,40.0119478,0.0 -105.25795520000001,40.0119027,0.0 -105.2579096,40.0119027,0.0 -105.25791500000001,40.0118266,0.0 -105.2580678,40.0118164,0.0 -105.2580544,40.0116335,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 4</name>
+			<styleUrl>#line-4186F0-11-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2579579,40.0119417,0.0 -105.2577701,40.0119561,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-4186F0-10-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>10</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-10-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>15.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-10-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-10-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-10-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-4186F0-11-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>11</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-11-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>17.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-11-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-11-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-11-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Shovel</name>
+		<Placemark>
+			<name>620 , 624 pearl and 613 walnut</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.28708389999997,40.01607,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>perimeter walk</name>
+			<styleUrl>#poly-4186F0-1-255-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.2869512,40.01635730000001,0.0 -105.2873616,40.01627,0.0 -105.28735490000001,40.0162464,0.0 -105.28694180000001,40.01633269999999,0.0 -105.2869512,40.01635730000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>walk</name>
+			<styleUrl>#poly-4186F0-1-255-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.2870934,40.0162988,0.0 -105.2870826,40.01625980000001,0.0 -105.287037,40.01627,0.0 -105.2870438,40.0162865,0.0 -105.2870733,40.0162813,0.0 -105.2870759,40.016303900000004,0.0 -105.2870934,40.0162988,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>walk</name>
+			<styleUrl>#poly-4186F0-1-255-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.2871537,40.0162844,0.0 -105.2871792,40.0162803,0.0 -105.2871752,40.0162587,0.0 -105.2872194,40.0162515,0.0 -105.2872221,40.0162721,0.0 -105.2872476,40.016264899999996,0.0 -105.2872409,40.016231,0.0 -105.2871524,40.01625359999999,0.0 -105.2871537,40.0162844,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>walk</name>
+			<description><![CDATA[stair well  upper and lower level]]></description>
+			<styleUrl>#poly-4186F0-1-255</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.2872154,40.0161273,0.0 -105.2872047,40.0160831,0.0 -105.2871189,40.0160985,0.0 -105.2871269,40.01611700000001,0.0 -105.2871819,40.01610670000001,0.0 -105.2871913,40.016129299999996,0.0 -105.2872154,40.0161273,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>walk</name>
+			<description><![CDATA[stair way upper and lower level]]></description>
+			<styleUrl>#poly-4186F0-1-255</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.2870639,40.0161622,0.0 -105.2870572,40.016119,0.0 -105.2869888,40.01612620000001,0.0 -105.2869955,40.0161447,0.0 -105.2870317,40.0161427,0.0 -105.2870357,40.01616940000001,0.0 -105.2870639,40.0161622,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>walks</name>
+			<styleUrl>#line-4186F0-13-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2868278,40.0158582,0.0 -105.2871926,40.0157934,0.0 -105.2870853,40.0153939,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>walk </name>
+			<description><![CDATA[walk to house]]></description>
+			<styleUrl>#line-4186F0-10</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2871215,40.015480200000006,0.0 -105.28719660000002,40.0154637,0.0 -105.28721,40.0155089,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-4186F0-10-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>10</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-4186F0-10-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>15.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-4186F0-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-4186F0-13-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>13</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-13-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>20.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-13-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-13-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-13-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-4186F0-1-255-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-4186F0-1-255-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-1-255'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-1-255-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-1-255-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-4186F0-1-255-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-4186F0-1-255-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-1-255-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-1-255-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-1-255-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

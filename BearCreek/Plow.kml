@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Plow</name>
+		<Placemark>
+			<name>Lot</name>
+			<styleUrl>#poly-F8971B-0-255-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.2615762,39.9781457,0.0 -105.261611,39.9782033,0.0 -105.2615789,39.9782464,0.0 -105.2618766,39.97836559999998,0.0 -105.2617747,39.97849310000001,0.0 -105.2619785,39.9785815,0.0 -105.2621716,39.9783595,0.0 -105.26242380000001,39.978443799999994,0.0 -105.2627617,39.9780532,0.0 -105.262751,39.97801620000001,0.0 -105.2629307,39.977917600000005,0.0 -105.2626839,39.97773670000001,0.0 -105.2626276,39.97778600000001,0.0 -105.26272680000001,39.9779135,0.0 -105.2626812,39.9780203,0.0 -105.2624559,39.9782732,0.0 -105.2623379,39.97833070000001,0.0 -105.2620777,39.97833690000001,0.0 -105.2620429,39.9783204,0.0 -105.2620777,39.9782814,0.0 -105.2619088,39.9782136,0.0 -105.2618498,39.9782629,0.0 -105.2616486,39.9781457,0.0 -105.2616352,39.97810869999999,0.0 -105.2615762,39.9781457,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-F8971B-0-255-nodesc-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF1B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-F8971B-0-255-nodesc-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>0.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF1B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-F8971B-0-255-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F8971B-0-255-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F8971B-0-255-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

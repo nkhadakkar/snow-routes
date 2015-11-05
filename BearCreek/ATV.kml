@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>ATV</name>
+		<Placemark>
+			<name>Line 11</name>
+			<styleUrl>#line-DB4436-7-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2626598,39.9776792,0.0 -105.2638292,39.976339,0.0 -105.2640438,39.9762157,0.0 -105.2648592,39.97578,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Perimeter Walk-ATV</name>
+			<styleUrl>#line-DB4436-9-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2626303,39.977749,0.0 -105.26233260000001,39.9778929,0.0 -105.261426,39.9781375,0.0 -105.2611014,39.9781478,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-DB4436-7-nodesc-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>7</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-DB4436-7-nodesc-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>11.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-DB4436-7-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-7-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-7-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-9-nodesc-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>9</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-DB4436-9-nodesc-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>14.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-DB4436-9-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-9-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-9-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

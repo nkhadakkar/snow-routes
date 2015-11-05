@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Plow</name>
+		<Placemark>
+			<name>Polygon 1</name>
+			<styleUrl>#poly-F8971B-1-226-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.23492570000002,39.9947119,0.0 -105.2349687,39.99469129999999,0.0 -105.2347755,39.9945927,0.0 -105.2347863,39.9945393,0.0 -105.2348292,39.994522800000006,0.0 -105.2348775,39.9943584,0.0 -105.2348185,39.9942927,0.0 -105.2348989,39.99413650000001,0.0 -105.2347487,39.9940379,0.0 -105.2348185,39.9938242,0.0 -105.2349955,39.9938283,0.0 -105.2350277,39.9937461,0.0 -105.234856,39.9937379,0.0 -105.2348721,39.9932611,0.0 -105.234459,39.9932365,0.0 -105.234459,39.9937831,0.0 -105.2347648,39.9938077,0.0 -105.2345449,39.99453930000001,0.0 -105.2346253,39.9945927,0.0 -105.2346522,39.99465430000001,0.0 -105.2345932,39.994662600000005,0.0 -105.2344859,39.9947941,0.0 -105.23466290000002,39.99487630000001,0.0 -105.2347702,39.9947571,0.0 -105.2346897,39.9947201,0.0 -105.2347004,39.9946667,0.0 -105.23492570000002,39.9947119,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polygon 2</name>
+			<styleUrl>#poly-F8971B-2-196-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.2320746,39.99381600000001,0.0 -105.2324367,39.993818000000005,0.0 -105.2324286,39.9938673,0.0 -105.23262710000002,39.99385910000001,0.0 -105.2326432,39.9937995,0.0 -105.2327693,39.9938406,0.0 -105.2328444,39.9938077,0.0 -105.2328658,39.993742,0.0 -105.2329704,39.9937338,0.0 -105.233067,39.993670099999996,0.0 -105.2330616,39.9935591,0.0 -105.2330214,39.9935201,0.0 -105.233016,39.9934564,0.0 -105.2325976,39.99344810000001,0.0 -105.2322865,39.9937338,0.0 -105.2320638,39.99374199999999,0.0 -105.2320746,39.99381600000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polygon 3</name>
+			<styleUrl>#poly-F8971B-1-183-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.2322569,39.9937255,0.0 -105.2322489,39.9937009,0.0 -105.2326083,39.9934255,0.0 -105.2329034,39.9934399,0.0 -105.2328873,39.9933659,0.0 -105.2325788,39.9933762,0.0 -105.2325171,39.9933947,0.0 -105.2324769,39.993368000000004,0.0 -105.2321255,39.993629,0.0 -105.2321899,39.993702899999995,0.0 -105.2321845,39.99372759999999,0.0 -105.2322569,39.9937255,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polygon 4</name>
+			<styleUrl>#poly-F8971B-1-255-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.2320611,39.9944817,0.0 -105.2323642,39.9944879,0.0 -105.2324501,39.99461530000001,0.0 -105.2326754,39.9946379,0.0 -105.2325842,39.99445910000001,0.0 -105.2324072,39.9944632,0.0 -105.2322382,39.99439950000001,0.0 -105.2320611,39.9943995,0.0 -105.2320611,39.9944817,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polygon 5</name>
+			<styleUrl>#poly-F8971B-1-255-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-105.2320987,39.9944838,0.0 -105.2321202,39.995127,0.0 -105.2321845,39.9952626,0.0 -105.2322301,39.9953366,0.0 -105.2321899,39.9953715,0.0 -105.2322704,39.9954372,0.0 -105.2323776,39.9953489,0.0 -105.2324393,39.9953818,0.0 -105.2324179,39.9954126,0.0 -105.2325734,39.9954783,0.0 -105.2331018,39.9954763,0.0 -105.2330992,39.99541669999999,0.0 -105.233134,39.9954229,0.0 -105.2333459,39.99557699999999,0.0 -105.2333459,39.9956181,0.0 -105.233421,39.9956098,0.0 -105.2334318,39.9955441,0.0 -105.2335095,39.9955318,0.0 -105.2333137,39.9953715,0.0 -105.233244,39.9954146,0.0 -105.2331287,39.9953407,0.0 -105.2330536,39.9953345,0.0 -105.23302410000001,39.9953735,0.0 -105.2329355,39.9953694,0.0 -105.2329275,39.9952975,0.0 -105.2328148,39.9953037,0.0 -105.2328095,39.9953777,0.0 -105.232603,39.9953715,0.0 -105.2325305,39.9953263,0.0 -105.2325547,39.9952852,0.0 -105.2326459,39.9952544,0.0 -105.2326566,39.9951537,0.0 -105.2324206,39.9951516,0.0 -105.2324072,39.9952687,0.0 -105.2323079,39.995279,0.0 -105.2322087,39.995166,0.0 -105.23215770000002,39.995092,0.0 -105.2321953,39.9950653,0.0 -105.2321899,39.9944879,0.0 -105.2320987,39.9944838,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-F8971B-1-183-nodesc-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>B71B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-F8971B-1-183-nodesc-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>B71B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-F8971B-1-183-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F8971B-1-183-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F8971B-1-183-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-F8971B-1-226-nodesc-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>E21B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-F8971B-1-226-nodesc-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>E21B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-F8971B-1-226-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F8971B-1-226-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F8971B-1-226-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-F8971B-1-255-nodesc-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF1B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-F8971B-1-255-nodesc-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF1B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-F8971B-1-255-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F8971B-1-255-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F8971B-1-255-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-F8971B-2-196-nodesc-normal'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>C41B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-F8971B-2-196-nodesc-highlight'>
+			<LineStyle>
+				<color>ff1B97F8</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>C41B97F8</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-F8971B-2-196-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-F8971B-2-196-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-F8971B-2-196-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

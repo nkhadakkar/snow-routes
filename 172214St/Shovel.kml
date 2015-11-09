@@ -1,43 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
-		<name>Plow</name>
+		<name>Shovel</name>
 		<Placemark>
-			<name>2675 Northpark Dr</name>
+			<name>1722 14th St</name>
 			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
 			<Point>
-				<coordinates>-105.12890390000003,40.0133204,0.0</coordinates>
+				<coordinates>-105.275959,40.015381,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Polygon 1</name>
-			<styleUrl>#poly-F8971B-1-255-nodesc</styleUrl>
+			<name>walks</name>
+			<styleUrl>#poly-4186F0-1-255-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-105.1285735,40.0129771,0.0 -105.1286285,40.01285690000001,0.0 -105.1285332,40.012714100000004,0.0 -105.1284742,40.0127347,0.0 -105.1284501,40.01267099999999,0.0 -105.1282382,40.0126977,0.0 -105.1281121,40.0127449,0.0 -105.1281443,40.0127901,0.0 -105.1281095,40.0128086,0.0 -105.1280317,40.012747,0.0 -105.127978,40.01276959999999,0.0 -105.1279941,40.0127881,0.0 -105.1279539,40.0128743,0.0 -105.1284581,40.0130058,0.0 -105.1284984,40.0129462,0.0 -105.1285547,40.0129421,0.0 -105.1285735,40.0129771,0.0</coordinates>
+						<coordinates>-105.2763498,40.01546789999999,0.0 -105.276221,40.01512379999999,0.0 -105.2761661,40.015133000000006,0.0 -105.2762559,40.0154001,0.0 -105.2762224,40.0154083,0.0 -105.2762546,40.015488399999995,0.0 -105.2763498,40.01546789999999,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Polygon 2</name>
-			<styleUrl>#poly-F8971B-1-255-nodesc</styleUrl>
+			<name>walks</name>
+			<styleUrl>#poly-4186F0-1-255-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-105.1289074,40.013014,0.0 -105.1288752,40.0130562,0.0 -105.1288538,40.0130572,0.0 -105.1288176,40.013052,0.0 -105.1287934,40.01303459999999,0.0 -105.128831,40.0130007,0.0 -105.1286285,40.01285690000001,0.0 -105.1285721,40.0129894,0.0 -105.1285212,40.01299860000001,0.0 -105.1283938,40.01327289999999,0.0 -105.1284528,40.0132914,0.0 -105.1284394,40.013334500000006,0.0 -105.1286446,40.013380700000006,0.0 -105.1286995,40.0132359,0.0 -105.1285842,40.0132113,0.0 -105.1285681,40.0132585,0.0 -105.12854260000002,40.0132513,0.0 -105.1285735,40.0131702,0.0 -105.1286352,40.0131866,0.0 -105.1286606,40.0131126,0.0 -105.1285936,40.0130911,0.0 -105.12862980000001,40.0130572,0.0 -105.12867,40.0130449,0.0 -105.1287532,40.0130859,0.0 -105.128784,40.0130983,0.0 -105.12889,40.013126,0.0 -105.1288672,40.013164,0.0 -105.1289865,40.013189700000005,0.0 -105.129004,40.0131393,0.0 -105.1290455,40.0131537,0.0 -105.129059,40.0131126,0.0 -105.1290214,40.0130983,0.0 -105.1290388,40.0130531,0.0 -105.1289865,40.0130428,0.0 -105.1289718,40.01307160000001,0.0 -105.1289356,40.0130592,0.0 -105.128945,40.01302840000001,0.0 -105.1289074,40.013014,0.0</coordinates>
+						<coordinates>-105.275812,40.0155285,0.0 -105.2757986,40.0154956,0.0 -105.2757463,40.0155079,0.0 -105.2756739,40.0153045,0.0 -105.2756417,40.0153076,0.0 -105.2757275,40.0155398,0.0 -105.275812,40.0155285,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Line 5</name>
+			<styleUrl>#line-4186F0-9-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-105.2761084,40.0149533,0.0 -105.2761567,40.0150765,0.0 -105.27564970000002,40.0151957,0.0 -105.2756068,40.0150724,0.0</coordinates>
+			</LineString>
 		</Placemark>
 		<Style id='icon-503-DB4436-nodesc-normal'>
 			<IconStyle>
@@ -83,42 +93,70 @@
 				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
-		<Style id='poly-F8971B-1-255-nodesc-normal'>
+		<Style id='line-4186F0-9-nodesc-normal'>
 			<LineStyle>
-				<color>ff1B97F8</color>
-				<width>1</width>
+				<color>ffF08641</color>
+				<width>9</width>
 			</LineStyle>
-			<PolyStyle>
-				<color>FF1B97F8</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<h3>$[name]</h3>]]></text>
 			</BalloonStyle>
 		</Style>
-		<Style id='poly-F8971B-1-255-nodesc-highlight'>
+		<Style id='line-4186F0-9-nodesc-highlight'>
 			<LineStyle>
-				<color>ff1B97F8</color>
-				<width>2.0</width>
+				<color>ffF08641</color>
+				<width>14.0</width>
 			</LineStyle>
-			<PolyStyle>
-				<color>FF1B97F8</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
 			<BalloonStyle>
 				<text><![CDATA[<h3>$[name]</h3>]]></text>
 			</BalloonStyle>
 		</Style>
-		<StyleMap id='poly-F8971B-1-255-nodesc'>
+		<StyleMap id='line-4186F0-9-nodesc'>
 			<Pair>
 				<key>normal</key>
-				<styleUrl>#poly-F8971B-1-255-nodesc-normal</styleUrl>
+				<styleUrl>#line-4186F0-9-nodesc-normal</styleUrl>
 			</Pair>
 			<Pair>
 				<key>highlight</key>
-				<styleUrl>#poly-F8971B-1-255-nodesc-highlight</styleUrl>
+				<styleUrl>#line-4186F0-9-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-4186F0-1-255-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-4186F0-1-255-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FFF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-1-255-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-1-255-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-1-255-nodesc-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
 	</Document>

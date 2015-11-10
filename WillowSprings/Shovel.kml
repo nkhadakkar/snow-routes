@@ -3,16 +3,6 @@
 	<Document>
 		<name>Shovel</name>
 		<Placemark>
-			<name></name>
-			<styleUrl>#line-4186F0-8-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>-105.2630997,40.0385853,0.0 -105.263105,40.03802670000001,0.0 -105.263105,40.0374394,0.0 -105.2621394,40.0374394,0.0 -105.2617586,40.0375051,0.0 -105.2609432,40.03768170000001,0.0 -105.2608359,40.0378624,0.0 -105.2607983,40.0379446,0.0 -105.2606481,40.0379569,0.0 -105.2605784,40.0378624,0.0 -105.2605838,40.0377187,0.0 -105.26064280000001,40.0376489,0.0 -105.2607661,40.0376489,0.0 -105.262177,40.037349,0.0 -105.2631265,40.0373285,0.0 -105.2630353,40.036544,0.0 -105.2607554,40.0365481,0.0</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
 			<name>Line 2</name>
 			<styleUrl>#line-4186F0-5-nodesc</styleUrl>
 			<ExtendedData>
@@ -86,7 +76,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Line 2</name>
-			<styleUrl>#line-000000-1-nodesc</styleUrl>
+			<styleUrl>#line-A61B4A-12-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
 			<LineString>
@@ -184,34 +174,6 @@
 			<Pair>
 				<key>highlight</key>
 				<styleUrl>#icon-960-62AF44-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='line-000000-1-nodesc-normal'>
-			<LineStyle>
-				<color>ff000000</color>
-				<width>1</width>
-			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='line-000000-1-nodesc-highlight'>
-			<LineStyle>
-				<color>ff000000</color>
-				<width>2.0</width>
-			</LineStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='line-000000-1-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#line-000000-1-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#line-000000-1-nodesc-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
 		<Style id='line-4186F0-10-nodesc-normal'>
@@ -348,32 +310,32 @@
 				<styleUrl>#line-4186F0-8-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
-		<Style id='line-4186F0-8-nodesc-normal'>
+		<Style id='line-A61B4A-12-nodesc-normal'>
 			<LineStyle>
-				<color>ffF08641</color>
-				<width>8</width>
+				<color>ff4A1BA6</color>
+				<width>12</width>
 			</LineStyle>
 			<BalloonStyle>
 				<text><![CDATA[<h3>$[name]</h3>]]></text>
 			</BalloonStyle>
 		</Style>
-		<Style id='line-4186F0-8-nodesc-highlight'>
+		<Style id='line-A61B4A-12-nodesc-highlight'>
 			<LineStyle>
-				<color>ffF08641</color>
-				<width>12.0</width>
+				<color>ff4A1BA6</color>
+				<width>18.0</width>
 			</LineStyle>
 			<BalloonStyle>
 				<text><![CDATA[<h3>$[name]</h3>]]></text>
 			</BalloonStyle>
 		</Style>
-		<StyleMap id='line-4186F0-8-nodesc'>
+		<StyleMap id='line-A61B4A-12-nodesc'>
 			<Pair>
 				<key>normal</key>
-				<styleUrl>#line-4186F0-8-nodesc-normal</styleUrl>
+				<styleUrl>#line-A61B4A-12-nodesc-normal</styleUrl>
 			</Pair>
 			<Pair>
 				<key>highlight</key>
-				<styleUrl>#line-4186F0-8-nodesc-highlight</styleUrl>
+				<styleUrl>#line-A61B4A-12-nodesc-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
 		<Style id='line-A61B4A-8-nodesc-normal'>
